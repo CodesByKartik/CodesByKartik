@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web3 and Blockchain Domain**
 
-- 🌱 I’m currently learning **Rust , Remix**
+- 🌱 I’m currently learning **Rust , Remix , Java , Scikit Learn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodesByKartik?tab=repositories](https://github.com/CodesByKartik?tab=repositories)
 
